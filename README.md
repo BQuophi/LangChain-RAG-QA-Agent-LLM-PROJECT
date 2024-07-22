@@ -28,6 +28,8 @@ This project demonstrates how to build a sophisticated Q&A agent using LangChain
 - Granite offers robust natural language understanding and generation capabilities. Granite is designed to handle a wide range of language tasks, providing powerful APIs for developers to build and integrate AI solutions into their applications. By leveraging Watsonx Granite, developers can enhance their applications with advanced language processing capabilities, ensuring high accuracy and performance.
   
 ### Retrieval Augmented Generation (RAG)
+![image](https://github.com/user-attachments/assets/e98ca302-7b80-42fe-bbaf-d65e219f9c18)
+
 
 - RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.
 
