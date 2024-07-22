@@ -15,6 +15,10 @@ This project demonstrates how to build a sophisticated Q&A agent using LangChain
 ### Large Language Models (LLMs)
 - Large Language Models (LLMs) are advanced artificial intelligence systems trained on vast amounts of text data. These models, like GPT-4, are capable of understanding, generating, and manipulating human language with high accuracy. LLMs are often based on the Transformer architecture.
 - Introduced in the famous “Attention is All You Need” paper by Google researchers in 2017, the Transformer architecture is a neural network design that excels in processing sequences of data, such as text.
+  
+![Screenshot (2728)](https://github.com/user-attachments/assets/48a35669-754a-4d11-9247-26815c7f5770)
+
+Source[Google Research](https://research.google/pubs/attention-is-all-you-need/)
 
 - LLMs are pre trained on a vast array of language tasks—like translation, summarization, and text completion—using extensive datasets. This pretraining helps the models learn the intricacies of language, enabling them to understand and generate human-like text with high accuracy.This makes them able to perform a wide range of language-based tasks. They have transformed various industries by enabling applications like chatbots, virtual assistants, and content creation tools.
   
