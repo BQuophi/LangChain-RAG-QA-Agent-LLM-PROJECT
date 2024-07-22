@@ -56,4 +56,19 @@ Read more on [Hugging Face](https://huggingface.co/tasks/question-answering”)
 ### Summary
 - The project showcases how modern AI technologies can be harnessed to create advanced Q&A systems that provide precise and contextually relevant answers. By combining LangChain’s flexible framework with IBM Watsonx Granite’s powerful language model and RAG technology, we have demonstrated a practical application of these tools in handling real-world information retrieval and question answering tasks.
 
+---
 
+### Questions Based on the Sample.
+
+Try  out these questions using the Q/A Agent 
+
+1. **Who is known for her beautiful rose bushes in the community garden?**
+2. **What type of plants does Tom enjoy planting in the garden?**
+3. **Why did the local school visit the community garden?**
+4. **What did Emma share with the children during their visit?**
+5. **What kind of food was served during the picnic in the garden?**
+6. **How did the community garden contribute to the sense of camaraderie among the members?**
+7. **What is one activity that community members do together in the garden?**
+8. **How did Tom feel about gardening when he first moved to town?**
+9. **What did the children learn about during their field trip to the garden?**
+10. **What makes the community garden a special place for its members?**
