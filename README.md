@@ -18,10 +18,14 @@ This project demonstrates how to build a sophisticated Q&A agent using LangChain
 - LLMs are pre trained on a vast array of language tasks—like translation, summarization, and text completion—using extensive datasets. This pretraining helps the models learn the intricacies of language, enabling them to understand and generate human-like text with high accuracy.This makes them able to perform a wide range of language-based tasks. They have transformed various industries by enabling applications like chatbots, virtual assistants, and content creation tools.
   
 ### LangChain
+![image](https://github.com/user-attachments/assets/cc4ade1f-6075-47da-a15f-d4a03c446f44)
+
+[Source(Techchilli)](https://techchilli.com/artificial-intelligence/what-is-langchain/)
 - LangChain is a framework that helps you build applications using large language models (LLMs). It provides tools to easily connect different parts of an AI application, like retrieving information and generating text. With LangChain, you can create complex workflows for natural language processing (NLP) tasks without needing to write a lot of code from scratch. This makes it easier for developers to build sophisticated AI applications quickly and efficiently.
+- [Read More](https://www.langchain.com/retrieval)
 
 ### IBM Watsonx Granite
-- IBM  Granite is a family of artificial intelligence (AI) models purpose-built for business, engineered from scratch to help ensure trust and scalability in AI-driven applications. (Source- https://www.ibm.com/granite?utm_source=skills_network&utm_content=in_lab_content_link&utm_id=Lab-Granite+with+LangChain%3A+An+LLM+and+RAG+to+Answer+Questions_v1_1720558829)
+- IBM  Granite is a family of artificial intelligence (AI) models purpose-built for business, engineered from scratch to help ensure trust and scalability in AI-driven applications. [Source](https://www.ibm.com/granite?utm_source=skills_network&utm_content=in_lab_content_link&utm_id=Lab-Granite+with+LangChain%3A+An+LLM+and+RAG+to+Answer+Questions_v1_1720558829)
   
 - These IBM models — built on a decoder-only architecture — aim to help businesses scale AI. For instance, businesses can use them to apply retrieval augmented generation for searching enterprise knowledge bases to generate tailored responses to customer inquiries; use summarization to condense long-form content — like contracts or call transcripts — into short descriptions; and deploy insight extraction and classification to determine factors like customer sentiment. (Source)
   
@@ -29,7 +33,7 @@ This project demonstrates how to build a sophisticated Q&A agent using LangChain
   
 ### Retrieval Augmented Generation (RAG)
 ![image](https://github.com/user-attachments/assets/e98ca302-7b80-42fe-bbaf-d65e219f9c18)
-
+[Source(Truera.com)](https://truera.com/ai-quality-education/generative-ai-rags/what-is-retrieval-augmented-generation-rag-for-llms/)
 
 - RAG is an AI framework for retrieving facts from an external knowledge base to ground large language models (LLMs) on the most accurate, up-to-date information and to give users insight into LLMs' generative process.
 
@@ -37,7 +41,7 @@ This project demonstrates how to build a sophisticated Q&A agent using LangChain
 
 - In addition, LLMs sometimes generate plausible but incorrect information, known as hallucinations. RAG mitigates this by providing concrete references from retrieved documents, ensuring the generated responses are based on verified information.
 
-- For more visit : https://research.ibm.com/blog/retrieval-augmented-generation-RAG?utm_source=skills_network&utm_content=in_lab_content_link&utm_id=Lab-Granite+with+LangChain%3A+An+LLM+and+RAG+to+Answer+Questions_v1_1720558829
+- For more visit : [RAG](https://research.ibm.com/blog/retrieval-augmented-generation-RAG?utm_source=skills_network&utm_content=in_lab_content_link&utm_id=Lab-Granite+with+LangChain%3A+An+LLM+and+RAG+to+Answer+Questions_v1_1720558829)
 
 ### Question-and-Answer (Q&A) Agent
 A Q&A agent is an AI system designed to answer user queries by understanding and processing natural language inputs. These agents utilize LLMs and other NLP techniques to interpret questions and generate precise answers. Q&A agents are used in various applications, including customer support, virtual assistants, and educational tools, providing users with quick and accurate information based on their queries.
@@ -47,4 +51,9 @@ In reference to a documentation on Hugging Face :
 - “Question Answering models can retrieve the answer to a question from a given text, which is useful for searching for an answer in a document. Some question answering models can generate answers without context!
 - Question Answering (QA) models can be used to automate the response to frequently asked questions by using a knowledge base (documents) as context. In other words the answers are derived from the context provided using metrics like exact-match and f1-score.
 - 
-Read more on Hugging Face : https://huggingface.co/tasks/question-answering”
+Read more on [Hugging Face](https://huggingface.co/tasks/question-answering”)
+
+### Summary
+- The project showcases how modern AI technologies can be harnessed to create advanced Q&A systems that provide precise and contextually relevant answers. By combining LangChain’s flexible framework with IBM Watsonx Granite’s powerful language model and RAG technology, we have demonstrated a practical application of these tools in handling real-world information retrieval and question answering tasks.
+
+
