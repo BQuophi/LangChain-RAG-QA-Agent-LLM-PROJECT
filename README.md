@@ -2,7 +2,7 @@
 
 Project from IBMSkillsNetwork 
 ## Project Overview
-- This project demonstrates how to use LangChain to create a question-and-answer (Q&A) agent based on a large language model (LLM) and retrieval augmented generation (RAG) technology. The project leverages the IBM Watsonx Granite LLM and LangChain to set up and configure a Retrieval Augmented Generation (RAG) pipeline.
+- This project demonstrates how to use LangChain to create a question-and-answer (Q&A) agent based on a large language model (LLM) and retrieval augmented generation (RAG) technology. The project leverages the IBM Watsonx Granite LLM, LangChain and Chroma vector store to set up and configure a Retrieval Augmented Generation (RAG) pipeline.
 Introduction
 
 - In the era of information overload, finding accurate and relevant answers to specific questions can be challenging. Traditional search engines often return an overwhelming amount of information, much of which may not be directly relevant to the user's query. This is where Question-and-Answer (Q&A) agents come into play, providing users with precise answers to their questions by leveraging advanced natural language processing (NLP) and machine learning technologies.
